@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "DEVARA",
+      "singer": "ANIRUDH RAVICHANDER",
+      "genre": "Romantic",
+      "imgUrl": "https://media-hosting.imagekit.io//938ea437668c4f21/DEVARA.jpg?Expires=1835966287&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bFOiSiBWEEYMl95hdjeLUL9XwcaRn9DaiWmmqSo-vh0zkLQSioN2ejZZj0gZDQHhkADtyxvhg8ksxTePlkw240i8lPrZgpTFSZw6uh2TRJf2J5UfgWd2G~2xz6b2YlkvpqX~uHxnCK-Cev6IWwSxRMx99C7bvPmQnff~-pRBSL0Wzt4BcX7Hi36REraKf4mSg908~M6FWxUHdmk50F5hfXvGRh8C8kUSVNDA07hMjRJRXG0r-hsqHFJtRwL3B4M1aLT4TzTXnXGFh3LLjQKCooeRqx0LsCF00l24tNoBcz0AO8vsaBS3r4CgNm5h40ZGEGt-m6KZXZo8g4f3mRgJgA__",
+      "songUrl": "Songs/PATHA.mp3"
+    },
+    {
+      "id": 2,
+      "title": "DEVARA",
+      "singer": "ANIRUDH RAVICHANDER",
+      "genre": "ROCK",
+      "imgUrl": "https://media-hosting.imagekit.io//1eeb69acf9bc4dc7/DEVARA1.jpg?Expires=1835966378&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PdmtGyTTpwCpVY6dEIdzqIJ4XBJSts8dfVvGItpgn7YsbM05BhVxHjueXEoa78oYfMAw46uEIf8IXrvL5IrhnGinp5Epf1OeXVgfrDsbWiXSYugtyk4dYdCerwxBh0ZRqwmvSl9cKjnOTy2gZV~JmMuDH~VFePehNvLfUSA6s91oCCiLOV06jgeQv59AK3AhLKCJCL8rH5hgx7avhGUbbhStii0NzjZur6uIVpqg~5NV1EkMRfCssdvUczl6xvXUUyOWQ~Ng3w5rwO1883UmF6BHp5kE5-CT6f2jT2MgYBPMOME7JRDYGis48dolpriKUdXRgWIy0hS-zYTmjVa2kA__",
+      "songUrl": "Songs/FEAR.mp3"
+    },
+    {
+      "id": 3,
+      "title": "VETTAIYAN",
+      "singer": "ANIRUDH RAVICHANDER",
+      "genre": "Romantic",
+      "imgUrl": "https://media-hosting.imagekit.io//ec058ead42274547/VETTAIYAN.jpg?Expires=1835966467&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=I6NWZJpfPofKQfC782dvx~cZDv~oj9jLjCW3uEqxioWNI~MvR4nAGHuR3jQzVlgq2S1MJ29duGXEH-kESdXJalRgpO7fo3bL5V53YKbQW3zqgIu07vsV26Z0aCZysRV-HDtmfI0WvoS~VXWcwXd~IMyLS4M6UYKr1OFO1QVPwWhWuAyHabN~99bNn8IjQz0V8tHBhEvuP5Pk9J10SvbggkPCLqxTTadU8wAizwTpOqv4v~W1A6JZ1oqQOvhdrz8jcCEzVv2CHBqiyMUSYgZuqC6VH1G9gUwmTfUiKp9PtJ85oOLvesPT09JFmJFRmxMDW~qWl14TmTzCvU4pUqMiKg__",
+      "songUrl": "Songs/MANASILYO.mp3"
+    },
+    {
+      "id": 4,
+      "title": "BROTHER",
+      "singer": "HARRIS JAYARAJ",
+      "genre": "POP",
+      "imgUrl": "https://media-hosting.imagekit.io//f145093aab124cb0/BROTHER.jpg?Expires=1835966550&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=A-iNXKNsdptJgp3GQrAeMpIo0yk87LcUUCcshVf5tcY30aWoK7QAozjF~QExW7rA0qj2DKz53RsrKvXQ8Cqg0zi5o~5slzxjmlPQGMaJMrdVYZQEYNPN0RlBluaoU6AQYhBvDP8OTlts09EJF9xIIEddXb83XV45O446ziPffT93J0RC8MckTvPWJmtFQl1UN~scHdU9hB-0ScUs3ap5DVpVOLnVnMXYVpm6cKHT-PgaPr4bk1OR1wEjEFKDldVWByLjaQakMMic8R14nh0z1Hf5ByDU3Jvv9oDELVxoE-14NSMTLTshJf4wu1vsiGbcJbMZehIxucuAh25c-y7OIg__",
+      "songUrl": "Songs/MAKAMASI.mp3"
+    },
+    {
+      "id": 5,
+      "title": "THINK INDIE",
+      "singer": "SAI ABHYANKKAR",
+      "genre": "ROMANTIC",
+      "imgUrl": "https://media-hosting.imagekit.io//409b18bbe7ae4488/AASAKOODA.jpg?Expires=1835966974&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=t~li5BnelWr55B~SIXX3wPSJRc~r0a1akaiCkp~XlGJ3qka0jF82Ct0ZZjYGUd1s2lF9qEQaSreY4G2Cu98bl1Skbo~99l~~KI~EPqoiajwJXHEAaBSYNc3vAFfxhPUu~4RImnZNhJ-IWuBniHwE30iLVBB55jU6bbcmfmWOrGaoDzY1Cr673xv~4Bpj3CH112vn6g~WiZ0hMzGtOMUIjtYY6YKY6V8PTsfz4TBDLBNWSMxcRA3o0bcvG6M8SywzZ5WJZKcwIqEnh0JW6Gm7-RS3ziCnU4veD5D3ltlpRAZwHXBSoajQJHaB-haRibU1vJvwLaqYjHUkfjI2zEVSRQ__",
+      "songUrl": "Songs/AASAKOODA.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "id": 4,
+      "title": "BROTHER",
+      "singer": "HARRIS JAYARAJ",
+      "genre": "POP",
+      "imgUrl": "https://media-hosting.imagekit.io//f145093aab124cb0/BROTHER.jpg?Expires=1835966550&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=A-iNXKNsdptJgp3GQrAeMpIo0yk87LcUUCcshVf5tcY30aWoK7QAozjF~QExW7rA0qj2DKz53RsrKvXQ8Cqg0zi5o~5slzxjmlPQGMaJMrdVYZQEYNPN0RlBluaoU6AQYhBvDP8OTlts09EJF9xIIEddXb83XV45O446ziPffT93J0RC8MckTvPWJmtFQl1UN~scHdU9hB-0ScUs3ap5DVpVOLnVnMXYVpm6cKHT-PgaPr4bk1OR1wEjEFKDldVWByLjaQakMMic8R14nh0z1Hf5ByDU3Jvv9oDELVxoE-14NSMTLTshJf4wu1vsiGbcJbMZehIxucuAh25c-y7OIg__",
+      "songUrl": "Songs/MAKAMASI.mp3"
+    },
+    {
+      "id": 5,
+      "title": "THINK INDIE",
+      "singer": "SAI ABHYANKKAR",
+      "genre": "ROMANTIC",
+      "imgUrl": "https://media-hosting.imagekit.io//409b18bbe7ae4488/AASAKOODA.jpg?Expires=1835966974&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=t~li5BnelWr55B~SIXX3wPSJRc~r0a1akaiCkp~XlGJ3qka0jF82Ct0ZZjYGUd1s2lF9qEQaSreY4G2Cu98bl1Skbo~99l~~KI~EPqoiajwJXHEAaBSYNc3vAFfxhPUu~4RImnZNhJ-IWuBniHwE30iLVBB55jU6bbcmfmWOrGaoDzY1Cr673xv~4Bpj3CH112vn6g~WiZ0hMzGtOMUIjtYY6YKY6V8PTsfz4TBDLBNWSMxcRA3o0bcvG6M8SywzZ5WJZKcwIqEnh0JW6Gm7-RS3ziCnU4veD5D3ltlpRAZwHXBSoajQJHaB-haRibU1vJvwLaqYjHUkfjI2zEVSRQ__",
+      "songUrl": "Songs/AASAKOODA.mp3"
+    }
+  ],
+    
+  "playlist": [
+    {
+      "id": 1,
+      "title": "DEVARA",
+      "singer": "ANIRUDH RAVICHANDER",
+      "genre": "Romantic",
+      "imgUrl": "https://media-hosting.imagekit.io//938ea437668c4f21/DEVARA.jpg?Expires=1835966287&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bFOiSiBWEEYMl95hdjeLUL9XwcaRn9DaiWmmqSo-vh0zkLQSioN2ejZZj0gZDQHhkADtyxvhg8ksxTePlkw240i8lPrZgpTFSZw6uh2TRJf2J5UfgWd2G~2xz6b2YlkvpqX~uHxnCK-Cev6IWwSxRMx99C7bvPmQnff~-pRBSL0Wzt4BcX7Hi36REraKf4mSg908~M6FWxUHdmk50F5hfXvGRh8C8kUSVNDA07hMjRJRXG0r-hsqHFJtRwL3B4M1aLT4TzTXnXGFh3LLjQKCooeRqx0LsCF00l24tNoBcz0AO8vsaBS3r4CgNm5h40ZGEGt-m6KZXZo8g4f3mRgJgA__",
+      "songUrl": "Songs/PATHA.mp3"
+    },
+    {
+      "id": 2,
+      "title": "DEVARA",
+      "singer": "ANIRUDH RAVICHANDER",
+      "genre": "ROCK",
+      "imgUrl": "https://media-hosting.imagekit.io//1eeb69acf9bc4dc7/DEVARA1.jpg?Expires=1835966378&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PdmtGyTTpwCpVY6dEIdzqIJ4XBJSts8dfVvGItpgn7YsbM05BhVxHjueXEoa78oYfMAw46uEIf8IXrvL5IrhnGinp5Epf1OeXVgfrDsbWiXSYugtyk4dYdCerwxBh0ZRqwmvSl9cKjnOTy2gZV~JmMuDH~VFePehNvLfUSA6s91oCCiLOV06jgeQv59AK3AhLKCJCL8rH5hgx7avhGUbbhStii0NzjZur6uIVpqg~5NV1EkMRfCssdvUczl6xvXUUyOWQ~Ng3w5rwO1883UmF6BHp5kE5-CT6f2jT2MgYBPMOME7JRDYGis48dolpriKUdXRgWIy0hS-zYTmjVa2kA__",
+      "songUrl": "Songs/FEAR.mp3"
+    },
+    {
+      "id": 3,
+      "title": "VETTAIYAN",
+      "singer": "ANIRUDH RAVICHANDER",
+      "genre": "Romantic",
+      "imgUrl": "https://media-hosting.imagekit.io//ec058ead42274547/VETTAIYAN.jpg?Expires=1835966467&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=I6NWZJpfPofKQfC782dvx~cZDv~oj9jLjCW3uEqxioWNI~MvR4nAGHuR3jQzVlgq2S1MJ29duGXEH-kESdXJalRgpO7fo3bL5V53YKbQW3zqgIu07vsV26Z0aCZysRV-HDtmfI0WvoS~VXWcwXd~IMyLS4M6UYKr1OFO1QVPwWhWuAyHabN~99bNn8IjQz0V8tHBhEvuP5Pk9J10SvbggkPCLqxTTadU8wAizwTpOqv4v~W1A6JZ1oqQOvhdrz8jcCEzVv2CHBqiyMUSYgZuqC6VH1G9gUwmTfUiKp9PtJ85oOLvesPT09JFmJFRmxMDW~qWl14TmTzCvU4pUqMiKg__",
+      "songUrl": "Songs/MANASILYO.mp3"
+    }
+    
+  ]
+}
